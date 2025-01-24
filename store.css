@@ -1,0 +1,51 @@
+#store{
+  border-style:solid;
+  padding:20px;
+  background-color:#f2b3ed;
+}
+.paras{
+  border-style:dotted;
+  margin:20px;
+  padding:10px;
+}
+#fruit{
+  float:left;
+  width:50%;
+  height:50%;
+  border-color:orange;
+  color:red;
+  background-color:#f1f50a;
+ 
+}
+#veges{
+  float:right;
+  width:50%;
+  height:50%;
+  border-color:darkgreen;
+  color:purple;
+  background-color:#f1f50a;
+}
+#grains{
+  clear:both;
+ width:50%;
+  height :50%;
+  border-color:deeppink;
+  color:green;
+  background-color:#f1f50a;
+}
+#welcome{
+  color:rgb(50, 168, 157);
+  font-family: 'Akaya Telivigala', cursive;
+}
+#g{
+  color:#0cf249;
+  font-family: 'Lobster', cursive;
+}
+#v{
+  color:#bd93f5;
+    font-family: 'Lobster', cursive;
+}
+#f{
+  color:#ed4287;
+ font-family: 'Lobster', cursive;
+}
